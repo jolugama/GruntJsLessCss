@@ -1,0 +1,19 @@
+#colores .colorRojo {
+  color: #ff0000;
+}
+#colores .boxVerde {
+  background-color: #00ff00;
+}
+#colores .colorAzul {
+  color: #0000ff;
+}
+body {
+  color: #ff0000;
+}
+.content {
+  width: 400px;
+  height: 400px;
+  margin: 100px auto 0px auto;
+  padding: 40px 20px 40px 20px;
+  background-color: #00ff00;
+}
